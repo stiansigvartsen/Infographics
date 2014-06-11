@@ -1,4 +1,4 @@
-Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Supplier ID,VAT Reg no,Expense Area,Expense Type,Expense Code,Creditor Type
+Body,NameOfBody,Date,TransactionNumber,InvoiceNumber,Amount,SupplierName,SupplierID,VATRegNo,ExpenseArea,ExpenseType,ExpenseCode,CreditorType
 18,Devon County Council,02/04/2014,CFADRES31499794,REDACTED UNDER DP ACT,13871.43,AAA ELDERLY CARE LTD/ST SAVIOURS,298874,,People Services,Care Spot - Private (3rd),5701,B
 18,Devon County Council,15/04/2014,CFADRES31500473,REDACTED UNDER DP ACT,8600.57,AAA ELDERLY CARE LTD/ST SAVIOURS,298874,,People Services,Care Spot - Private (3rd),5701,B
 18,Devon County Council,30/04/2014,CFADRES31501150,REDACTED UNDER DP ACT,13808.01,AAA ELDERLY CARE LTD/ST SAVIOURS,298874,,People Services,Care Spot - Private (3rd),5701,B
